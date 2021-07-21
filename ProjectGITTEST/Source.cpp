@@ -1,7 +1,11 @@
 #include <iostream>
 using namespace std;
 
-class Test
+
+
+//Создай любой класс.
+
+class Test //Мой класс
 {
 private:
 	int data = 0;
